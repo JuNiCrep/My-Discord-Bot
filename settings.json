@@ -1,0 +1,11 @@
+{
+    "TOKEN" : "TOKEN",
+    "Prefix" : "!",
+    "Bot-Status" : "STATUS",
+    "Welcome-Channel" : "CHANNEL ID",
+    "Temp-Channel" : "TEMP CHANNEL NAME",
+    "Clone-Temp-Channel" : "CLONED CHANNEL NAME",
+    "Admin-Role" : "ADMIN ROLE NAME",
+    "Verification-Message-ID" : "MESSAGE ID",
+    "Verification-Role-ID" : "VERIFIED ROLE ID"
+}
